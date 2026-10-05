@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="34" viewBox="0 0 220 34" role="img" aria-labelledby="title">
+  <title id="title">Ça build chez moi</title>
+  <rect width="220" height="34" rx="4" fill="#161b22"/>
+  <rect x="8" y="8" width="3" height="18" rx="1.5" fill="#eb8ec3"/>
+  <text x="22" y="23" fill="#eb8ec3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Ça build chez moi</text>
+</svg>

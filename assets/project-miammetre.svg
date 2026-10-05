@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="34" viewBox="0 0 220 34" role="img" aria-labelledby="title">
+  <title id="title">MiamMètre / Miette</title>
+  <rect width="220" height="34" rx="4" fill="#161b22"/>
+  <rect x="8" y="8" width="3" height="18" rx="1.5" fill="#63d8ed"/>
+  <text x="22" y="23" fill="#63d8ed" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">MiamMètre / Miette</text>
+</svg>
