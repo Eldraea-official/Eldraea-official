@@ -3,25 +3,23 @@
   <img src="assets/banner-animated.gif" alt="Kimberly Jacques et Charlie dans leur atelier. Comprendre. Construire. Transmettre." width="100%">
 </picture>
 
-Bonjour, moi c’est **Kimberly**. J’aime les systèmes complexes, surtout quand on peut les rendre plus lisibles, plus fiables et plus humains.
+## Bienvenue dans mon atelier
 
-Consultante .NET chez **[SoftFluent](https://www.softfluent.fr/)**, je construis aussi des projets personnels pour améliorer mon quotidien, explorer l’IA et partager ce que j’apprends.
+Moi, c’est **Kimberly**. Ici, je construis les outils que j’aimerais avoir, je teste des idées qui me travaillent et je cherche à comprendre ce qui se cache derrière « ça fonctionne ».
 
-## Trois terrains, une même intention
+Mon quotidien professionnel tourne autour de .NET, chez **[SoftFluent](https://www.softfluent.fr/)**. Mes projets personnels débordent un peu du cadre : organiser les repas, apprendre autrement, mieux accompagner le travail technique…
 
-| <img src="assets/domain-dev.svg" alt="Construire · Logiciel" width="150" height="44"> | <img src="assets/domain-ai.svg" alt="Explorer · IA" width="150" height="44"> | <img src="assets/domain-teaching.svg" alt="Transmettre · Pédagogie" width="150" height="44"> |
-| --- | --- | --- |
-| Des architectures compréhensibles, des systèmes fiables et du legacy qui retrouve du sens. | Relier les modèles aux usages réels, avec des contrôles et des décisions humaines explicites. | Expliquer, documenter et rendre les connaissances utiles à celles et ceux qui les utilisent. |
+Le point commun ? Une petite friction du quotidien qui finit par devenir un projet. Parfois beaucoup plus grand que prévu.
 
-`C#` · `.NET` · `Blazor` · `SQL Server` · `Azure DevOps` · `LLM`
+## Ce qui m’occupe en ce moment
 
-## Sur mon établi
-
-Quelques projets personnels en cours. Leur présence ici ne signifie pas que leur code est public.
+Pas des produits parfaits exposés en vitrine : des idées que je construis, que je teste et que je fais évoluer.
 
 ### <img src="assets/project-miammetre.svg" alt="MiamMètre / Miette" width="220" height="34">
 
-Relier inventaire, recettes et planning à un assistant dont les propositions restent soumises à confirmation.
+**Partir de ce qu’on a réellement dans les placards**, plutôt que d’une recette qui suppose qu’on a déjà tout.
+
+Je relie l’inventaire, les recettes et le planning des repas. Miette vient proposer des pistes, pas décider à ma place : ses suggestions restent soumises à confirmation.
 
 `Blazor` · `.NET 10` · `SQL Server` · `LLM`
 
@@ -29,7 +27,9 @@ Relier inventaire, recettes et planning à un assistant dont les propositions re
 
 ### <img src="assets/project-ca-build.svg" alt="Ça build chez moi" width="220" height="34">
 
-Un atelier C#/.NET et DevOps pour apprendre, garder ses tentatives et retravailler ses explications.
+**Ne pas seulement accumuler des cours** : essayer, expliquer, se tromper et retravailler sa compréhension.
+
+J’en fais un atelier C#/.NET et DevOps où je peux garder mes tentatives et reprendre mes explications. La correction assistée est une piste que j’expérimente, pas une évaluation pédagogique déjà validée.
 
 `C#` · `.NET` · `Ollama`
 
@@ -37,23 +37,33 @@ Un atelier C#/.NET et DevOps pour apprendre, garder ses tentatives et retravaill
 
 ### <img src="assets/project-devmission.svg" alt="DevMission Control" width="240" height="34">
 
-Un cockpit de missions traçables qui sépare propositions, preuves et autorisations.
+**Explorer comment un agent peut aider sans lui confier les décisions à notre place.**
+
+Je construis un cockpit de missions qui garde le contexte et la trace des décisions. Les propositions, les preuves et les autorisations restent séparées : pouvoir suggérer une action ne signifie pas avoir le droit de l’exécuter.
 
 `Blazor` · `Azure DevOps` · `Codex`
 
 *MVP local.*
 
-## J’écris aussi
+## Quelques convictions, pas des commandements
+
+> Comprendre avant d’ajouter une abstraction.
+>
+> Une proposition d’IA n’est pas une décision.
+>
+> Si personne ne peut reprendre le système derrière moi, la documentation n’est pas un supplément.
+
+## Quelques notes sorties de l’atelier
 
 **De l’herbe fraîche à la migration : AppCat au service des projets legacy**
 
-Mon article en deux parties, publié chez SoftFluent :
+J’écris aussi pour partager ce que je découvre. Cet article en deux parties, publié chez SoftFluent, explore AppCat au service des projets legacy :
 
 - [Lire la première partie](https://www.softfluent.fr/blog/de-lherbe-fraiche-a-la-migration-appcat-au-service-des-projets-legacy-partie-01/)
 - [Lire la deuxième partie](https://www.softfluent.fr/blog/de-lherbe-fraiche-a-la-migration-appcat-au-service-des-projets-legacy-partie-02/)
 
-> Comprendre en profondeur. Concevoir avec sens. Transmettre avec clarté.
-
 ---
 
-Une idée ou une question ? [Échangeons par email](mailto:eldraea@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/kimberly-jacques-67233a17b/).
+Certains dépôts restent privés. Je peux néanmoins parler des problèmes rencontrés, des choix faits et de ce que j’en retiens, en respectant ce qui doit rester confidentiel.
+
+Un sujet en commun, une question ou une idée à confronter ? [Parlons-en par email](mailto:eldraea@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/kimberly-jacques-67233a17b/).
